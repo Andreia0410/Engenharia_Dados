@@ -1,5 +1,9 @@
 # Engenharia_Dados
-Engenharia de dados. Conceitos, definições, pipeline de dados e Data modern stack
+Engenharia de dados
+
+O que é Engenharia de dados ? 
+Engenharia de dados é todo o processo que envolve desde a arquitetura de um projeto que envolva grande volume de dados(Big Data) até seu desenvolvimento,
+e manutenção para manter o fluxo de processamento dos dados em perfeito estado de consumo, pelas areas de negócio.
 
 O que é Big Data ?
 
