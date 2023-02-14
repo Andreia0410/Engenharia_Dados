@@ -16,6 +16,7 @@ entre outros. Os Data Lakes podem armazenar dados estruturados(csv, tabelas, xls
 e assertivas.
 
 O que é uma Pipeline de dados em batch ?
+![Dilithium_flowchart-diagrams_1_2x ab0945a88b1e911d345fc4f2df94c04300689315](https://user-images.githubusercontent.com/57784654/218838654-3c590f24-284d-4c51-90de-b929c201a9e9.jpeg)
 
 Os pipelines de dados de processamento em lote processam e armazenam dados em grandes volumes ou lotes. Eles são adequados para tarefas ocasionais de alto volume, como contabilidade mensal.
 
