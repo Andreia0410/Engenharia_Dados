@@ -15,4 +15,7 @@ de diferentes data sources(origens). Tais como: Sistemas corporativos(SAP'S, CRM
 entre outros. Os Data Lakes podem armazenar dados estruturados(csv, tabelas, xlsx, corporate tables), semi-estruturados(JSON, logs, txt, XML), data stores(ORC, Parquet) e dados não-estruturados(imagens, videos, audio). Os dados armazenados no Lake possuem uma entrega mais rápida de Analytics, Data Science e ML em relação à insights e respostas de negócios que precisam ser entregues em um near real time ou real time, dependendo da necessidade do negócio. Tornando as soluções de negócios mais rápidas
 e assertivas.
 
+O que é uma Pipeline de dados em batch ?
 
+
+O que é uma pipeline de dados em Streaming ?
