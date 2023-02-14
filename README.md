@@ -24,7 +24,13 @@ O pipeline de dados contém uma série de comandos sequenciados e cada comando �
 
 
 O que é uma pipeline de dados em Streaming ?
+![product-page-diagram_Amazon-Kinesis-Data-Streams 074de94302fd60948e1ad070e425eeda73d350e7](https://user-images.githubusercontent.com/57784654/218844674-4a7c6545-98c0-4fca-aa87-6342f09047cb.png)
 
 Um fluxo de dados é uma sequência contínua e incremental de pacotes de dados de pequeno porte. Geralmente representa uma série de eventos que ocorrem durante um determinado período. Por exemplo, um fluxo de dados pode mostrar dados do sensor contendo medições durante a última hora. Uma única ação, como uma transação financeira, também pode ser chamada de evento. Os pipelines de streaming processam uma série de eventos para análises em tempo real.
 
 A transmissão de dados requer baixa latência e alta tolerância a falhas. Seu pipeline de dados deve ser capaz de processar dados mesmo que alguns pacotes de dados sejam perdidos ou cheguem em uma ordem diferente da esperada.
+
+Qual a diferença entre o processamento em bacth e em streaming ?
+![Capturar](https://user-images.githubusercontent.com/57784654/218847087-b3184111-2991-4187-8608-57aa4fd00f92.JPG)
+
+
